@@ -2,6 +2,7 @@
 
 ### Project Overview
 Hypothesis-free evaluation of bacterial infections associated with neurodegenerative diseases across UK Biobank (UKB), FinnGen, and All of Us (AoU).
+
 Neurodegenerative Diseases (NDDs) Evaluated:
 -  Alzheimer's Disease (AD)
 -  Amyotrophic Lateral Sclerosis (ALS)
