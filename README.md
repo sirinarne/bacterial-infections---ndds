@@ -15,7 +15,7 @@ Analyses:
 - Replication across cohorts
 - Lag-time analyses evaluating the influence of infection timing (FinnGen and AoU)
 
-###### Table 1. Summary of Cohort Analyses 
+##### Table 1. Summary of Cohort Analyses 
 ![Study workflow](figures/models_summary.png)
 
 
@@ -48,13 +48,13 @@ Analyses:
 |`07_Tables.ipynb` |Generates publication-ready tables summarizing cohort characteristics, association results, and selected analysis subsets|
 
 ### Results 
-###### Figure 1. Summary of Significant Associations Across Biobanks
+##### Figure 1. Summary of Significant Associations Across Biobanks
 ![BarChart](figures/bar_summary_new.png)
 ​
 
-###### Figure 2. Forest Plots Representing All FDR Significant (p < 0.05) Bacterial Infection - NDD Pairs Replicated Across All Three Biobanks ​
+##### Figure 2. Forest Plots Representing All FDR Significant (p < 0.05) Bacterial Infection - NDD Pairs Replicated Across All Three Biobanks ​
 ![Forest Plot1](figures/forest_plot_all.png)
 
 
-###### Figure 3. Forest Plots Representing All FDR Significant (p < 0.05) Lag Associations For Bacterial Infection - NDD Pairs Replicated Across FinnGen and AoU​
-![Forest Plot2](figures/forest_plot_sub_lags.png)
+##### Figure 3. Forest Plots Representing All FDR Significant (p < 0.05) Lag Associations For Bacterial Infection - NDD Pairs Replicated Across FinnGen and AoU​
+![Forest Plot2](figures/forest_plot_sub_lags1.png)
