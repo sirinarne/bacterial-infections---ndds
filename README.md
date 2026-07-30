@@ -17,10 +17,14 @@ Analyses Included:
 ### Notebook Guide 
 
 #### UKB 
-
+| Notebook | Description |
+|----------|-------------|
+| `UKB_bacteria-Copy1.ipynb`|Loads UK Biobank participant, infection, and covariate data, runs regression models, and generates association results|
 
 #### FinnGen 
-
+| Notebook | Description |
+|----------|-------------|
+| `finngen_bacteria-Copy1.ipynb`|Loads FinnGen survival analysis results and extracts hazard ratios for bacterial infection–neurodegenerative disease associations at lag 0 (any infection prior to tenure) and lag-time analyses (<1 year, 1–5 years, and 5–15 years before tenure).|
 
 #### AoU 
 | Notebook | Description |
