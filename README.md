@@ -16,7 +16,7 @@ Analyses:
 - Lag-time analyses evaluating the influence of infection timing (FinnGen and AoU)
 
 ###### Table 1. Summary of Cohort Analyses 
-![Study workflow](figures/table_models(2).png)
+![Study workflow](figures/table_models (2).png)
 
 
 ### Notebook Guide 
@@ -53,8 +53,8 @@ Analyses:
 ​
 
 ###### Figure 2. Forest Plots Representing All FDR Significant (p < 0.05) Bacterial Infection - NDD Pairs Replicated Across All Three Biobanks ​
-![Forest Plot1](figures/forest_plot_data_all (8).png)
+![Forest Plot1](figures/forest_plot_data_all(8).png)
 
 
 ###### Figure 3. Forest Plots Representing All FDR Significant (p < 0.05) Lag Associations For Bacterial Infection - NDD Pairs Replicated Across FinnGen and AoU​
-![Forest Plot1](figures/forest_plot_sub_lags(1).png)
+![Forest Plot2](figures/forest_plot_sub_lags(1).png)
