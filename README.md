@@ -1,9 +1,18 @@
 # Bacterial Infections & Neurodegenerative Disease Risk Across National Biobanks 
+Hypothesis-free evaluation of bacterial infections associated with neurodegenerative diseases across UK Biobank, FinnGen, and All of Us.
 
-## Introduction 
-In this project, we evaluated the associations between a set of bacterial infections and five neurodegenerative diseases: Alzheimer's, Parkinson's, Dementia, Vascular Dementia, and Amyotrophic Lateral Sclerosis using national biobank data from FinnGen, UK Biobank (UKB), and All of Us (AoU). 
+### Project Overview
+Neurodegenerative Diseases (NDDs) evaluated include:
+-  Alzheimer's Disease (AD)
+-  Amyotrophic Lateral Sclerosis (ALS)
+-  Parkinson's Disease
+-  Dementia (DEM)
+-  Vascular Dementia (VAS)
 
-This README is a brief overview of how we did our analysis and provides a breakdown of each of the notebooks in this repository. 
+Analyses Included:
+- hypothesis - free association screening
+- replication across cohorts
+- lag-time analyses evaluating the influence of infection timing
 
 ### UKB 
 
