@@ -12,7 +12,10 @@ Neurodegenerative Diseases (NDDs) Evaluated:
 Analyses:
 - Hypothesis - free association screening
 - Replication across cohorts
-- Lag-time analyses evaluating the influence of infection timing (FinnGen and AoU) 
+- Lag-time analyses evaluating the influence of infection timing (FinnGen and AoU)
+
+###### Table 1. Summary of Cohort Analyses 
+
 
 ### Notebook Guide 
 - Language: Python
@@ -43,3 +46,12 @@ Analyses:
 |`07_Tables.ipynb` |Generates publication-ready tables summarizing cohort characteristics, association results, and selected analysis subsets|
 
 ### Results 
+###### Figure 1. Summary of Significant Associations Across Biobanks​
+
+
+
+###### Figure 2. Forest Plots Representing All FDR Significant (p < 0.05) Bacterial Infection - NDD Pairs Replicated Across All Three Biobanks ​
+
+
+
+###### Figure 3. Forest Plots Representing All FDR Significant (p < 0.05) Lag Associations For Bacterial Infection - NDD Pairs Replicated Across FinnGen and AoU​
