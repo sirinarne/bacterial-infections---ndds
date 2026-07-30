@@ -47,7 +47,7 @@ Analyses:
 |`07_Plots.ipynb`|Generates figures, including forest plots, bar charts, and other summary visualizations|
 |`07_Tables.ipynb` |Generates publication-ready tables summarizing cohort characteristics, association results, and selected analysis subsets|
 
-### Results 
+### Results Overview
 #### Figure 1. Summary of Significant Associations Across Biobanks
 ![BarChart](figures/bar_summary_new.png)
 ​
