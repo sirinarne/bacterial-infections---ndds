@@ -1,7 +1,7 @@
 # Bacterial Infections & Neurodegenerative Disease Risk Across National Biobanks 
-Hypothesis-free evaluation of bacterial infections associated with neurodegenerative diseases across UK Biobank (UKB), FinnGen, and All of Us (AoU).
 
 ### Project Overview
+Hypothesis-free evaluation of bacterial infections associated with neurodegenerative diseases across UK Biobank (UKB), FinnGen, and All of Us (AoU).
 Neurodegenerative Diseases (NDDs) Evaluated:
 -  Alzheimer's Disease (AD)
 -  Amyotrophic Lateral Sclerosis (ALS)
@@ -15,6 +15,7 @@ Analyses:
 - Lag-time analyses evaluating the influence of infection timing (FinnGen and AoU) 
 
 ### Notebook Guide 
+- Language: Python
 
 #### UKB 
 | Notebook | Description |
@@ -40,3 +41,5 @@ Analyses:
 |`06_run_COX-Copy1(ICD10).ipynb`|Fits Cox proportional hazards models using direct ICD10 bacterial infection codes, evaluating associations between infections and neurodegenerative diseases at lag 0 (any infection prior to tenure)|
 |`07_Plots.ipynb`|Generates figures, including forest plots, bar charts, and other summary visualizations|
 |`07_Tables.ipynb` |Generates publication-ready tables summarizing cohort characteristics, association results, and selected analysis subsets|
+
+### Results 
