@@ -45,7 +45,7 @@ Analyses:
 |`06_run_COX(FinnGen).ipynb` |Fits Cox proportional hazards models using FinnGen bacterial infection groupings. Evaluates overall associations (lag 0) and lag-time analyses (<1 year, 1–5 years, and 5+ years before tenure)|
 |`06_run_COX-Copy1(ICD10).ipynb`|Fits Cox proportional hazards models using direct ICD10 bacterial infection codes, evaluating associations between infections and neurodegenerative diseases at lag 0 (any infection prior to tenure)|
 |`07_Plots.ipynb`|Generates figures, including forest plots, bar charts, and other summary visualizations|
-|`07_Tables.ipynb` |Generates publication-ready tables summarizing cohort characteristics, association results, and selected analysis subsets|
+|`07_Tables.ipynb` |Generates tables, summarizing cohort characteristics, association results, and selected analysis subsets|
 
 ### Results Overview
 #### Figure 1. Summary of Significant Associations Across Biobanks
